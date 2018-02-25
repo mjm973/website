@@ -91,7 +91,6 @@ body {
 .container-left {
 	float: left;
 	text-align: left;
-	transform: translateX(-1px);
 }
 
 .container-right {
